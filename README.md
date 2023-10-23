@@ -16,6 +16,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sha1kh4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏆 Holopin Trophies
+[![An image of @sha1kh4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sha1kh4)](https://holopin.io/@sha1kh4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
