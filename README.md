@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sha1kh4&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sha1kh4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![An image of @sha1kh4's GitHub Trophies, which is a link to view their github-profile-trophy](https://github-profile-trophy.vercel.app/?username=Sha1kh4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🏆 Holopin Trophies
 [![An image of @sha1kh4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sha1kh4)](https://holopin.io/@sha1kh4)
