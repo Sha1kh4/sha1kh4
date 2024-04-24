@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Everyone+...;I+am+Shaikh+Adnan)](https://git.io/typing-svg)
 # 💫 About Me:
-🌱 I’m currently learning React JS ,<br><br>💬 Ask me about Flask , python , PlanetScale<br><br>📫 How to reach me Adnan.shaikh166@mit.asia<br><br>⚡ Fun fact I think I am cringe
+🌱 I’m currently learning React JS ,<br><br>💬 Ask me about Flask , python , Microsoft Azure<br><br>📫 How to reach me Adnan.shaikh166@mit.asia<br><br>⚡ Fun fact I think I am cringe
 
 
 ## 🌐 Socials:
